@@ -1,4 +1,4 @@
-deadsimple health-checkmonitor using curl + awk:
+a deadsimple health-checkmonitor using curl + awk (in 690 bytes of shellscript)
 
 ![](demo.gif)
 
