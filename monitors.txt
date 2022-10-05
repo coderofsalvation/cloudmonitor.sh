@@ -1,0 +1,8 @@
+-L https://google.com 
+-L https://stackoverflow.com 
+-L https://playterm.org 
+-L https://electribrary.electribers.com 
+-L http://info.cern.ch/
+-L https://yunohost.org
+-L https://yunohost.org/en
+-L http://silverclearinnereclipse.neverssl.com/online/
