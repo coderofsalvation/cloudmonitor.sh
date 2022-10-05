@@ -8,13 +8,14 @@ $ ./cloudmonitor.sh <url_or_file>
 
 ```shell
 cat myurls.txt
-https://foo.com
+-L -X POST --user "foo"bar" https://foo.com
 
 $ ./cloudmonitor.sh myurls.txt
 ```
 
-# from the web
+> every line simply gets passed as curl args (so it's flexible)
 
+# from the web
 
 server:
 ```
@@ -35,5 +36,4 @@ info.cern.ch/                   ♥      ❌  0.120880s
 yunohost.org                    ♥      ♥   0.223219s
 yunohost.org/en                 ♥      ♥   0.933116s
 silverclearinnereclipse.neverssl♥      ❌  0.471678s
-
 ```
