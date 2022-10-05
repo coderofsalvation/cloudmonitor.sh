@@ -37,3 +37,7 @@ yunohost.org                    ♥      ♥   0.223219s
 yunohost.org/en                 ♥      ♥   0.933116s
 silverclearinnereclipse.neverssl♥      ❌  0.471678s
 ```
+
+## Hackable ideas
+
+* let awk execute a file (`.cloudmonitor.sh.onerror` when exist) when ❌occurs (slack notifycation/webhooks e.g.)
